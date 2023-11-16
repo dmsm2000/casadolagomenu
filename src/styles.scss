@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: 'Rosarivo';
-  src: url('/assets/fonts/Rosarivo-Regular.ttf');
+  src: url('./assets/fonts/Rosarivo-Regular.ttf');
 }
 
 html {
-  background-image: url("/assets/background.jpg");
+  background-image: url("./assets/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
